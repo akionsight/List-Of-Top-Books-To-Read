@@ -1,0 +1,48 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:lightblue;
+}
+
+
+.title {
+    text-align: center;
+    color: red;
+    font-size: 100px;
+}
+
+.explaination {
+    color:red;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.book-title {
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.book-explaination {
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+}
+
+
+.book-image {
+    max-width:100%; 
+    height:auto; 
+    padding-left: 500px;
+}
+
+footer {
+    background-color: grey;
+    color: black;
+
+}
+
+::selection {
+    color: white;
+    background: black;
+}
+
