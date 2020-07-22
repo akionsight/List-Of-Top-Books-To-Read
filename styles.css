@@ -30,9 +30,8 @@ body {
 
 
 .book-image {
-    max-width:100%; 
-    height:auto; 
-    padding-left: 500px;
+    display: block;
+    text-align: center;
 }
 
 footer {
