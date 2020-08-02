@@ -45,3 +45,8 @@ footer {
     background: black;
 }
 
+@media print {
+    body:after{
+         content:url(print_qr.png)
+         }
+}
